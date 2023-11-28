@@ -2,7 +2,7 @@
 
 This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
 
-Put a link to your site hosted on Vercel [here](https://nextjs-tutorial-vivibarragango-vivianas-projects.vercel.app)
+Put a link to your site hosted on Vercel [here](https://nextuipractice-vivianas-projects.vercel.app/)
 
 ## Technologies Used
 
